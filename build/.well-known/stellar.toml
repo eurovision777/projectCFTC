@@ -6,12 +6,12 @@ ACCOUNTS=[
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
+ORG_NAME="tokensoc"
+ORG_URL="https://www.tokenbroken.org"
+ORG_DESCRIPTION="token broken desc su"
+ORG_TWITTER="@TOKENBROKEN"
 ORG_LOGO="https://i.ibb.co/LRZCzN1/screen-0.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_OFFICIAL_EMAIL="tokenbroken@gmail.com"
 
 
 [[CURRENCIES]]
